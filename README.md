@@ -37,6 +37,15 @@
 
 [<img align="left" alt="BOOTSTRAP" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />](https://getbootstrap.com)
 
+[<img align="left" alt="NODEJS" width="40px" src="https://github.com/JesusDR01/Portfolio-Production/blob/master/public/assets/svg/technologies/nodejs.svg" />](https://nodejs.org)
+
+[<img align="left" alt="REACTJS" width="40px" src="https://github.com/JesusDR01/Portfolio-Production/blob/master/public/assets/svg/technologies/react.svg" />](https://reactjs.org)
+
+<br />
+
+[<img align="left" alt="VUEJS" width="40px" src="https://github.com/workshops-de/vuejs.de/blob/8a2a4ca29326344626f7d7ef83eee17d765385b6/assets/img/vuejs-logo.svg" />](https://vuejs.org)
+
+
 [<img align="left" alt="Django" width="40px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/django.svg" />](https://www.djangoproject.com/)
 
 [<img align="left" alt="MYSQL" width="40px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/mysql.svg" />](https://www.mysql.com/)
@@ -45,8 +54,8 @@
 
 [<img align="left" alt="ANDROID" width="40px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/android.svg" />](https://www.mysql.com/)
 
-<br>
-<br>
+<br />
+<br />
 
 ## GitHub Statistics
 
