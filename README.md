@@ -37,7 +37,7 @@
 
 [<img align="left" alt="BOOTSTRAP" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />](https://getbootstrap.com)
 
-[<img align="left" alt="REACTJS" width="40px" src="https://github.com/SabrinaFZ/portfolio/tree/main/src/assets/images/icons/react.svg" />](https://reactjs.org)
+[<img align="left" alt="REACTJS" width="40px" src="https://github.com/SabrinaFZ/portfolio/blob/main/src/assets/images/icons/react.svg" />](https://reactjs.org)
 
 [<img align="left" alt="Django" width="40px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/django.svg" />](https://www.djangoproject.com/)
 
