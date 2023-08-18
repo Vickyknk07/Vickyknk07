@@ -14,12 +14,12 @@
 
 ## About Me
 
-- I am an Engineering Undergraduate student pursuing Computer Science at the <a href="/https://www.iitbhu.ac.in/"> <b> Indian Institute of Technology</b>, Varanasi</a> pursuing B. Tech and am currently in my Third Year.
+- I am an Engineering Undergraduate student pursuing Computer Science at the <a href="/https://www.iitbhu.ac.in/"> <b> Indian Institute of Technology</b>, Varanasi</a> pursuing B. Tech and am currently in my Final Year.
 - Full Stack Developer
 - Have a Keen Interest in things related to Computer Science.
 - 👯 Would love working with people and brainstorming ideas 
 - 🌱 I’m currently learning **Spring Boot**
-- 📫 Reach Me At: **dead.407.man@gmail.com**
+- 📫 Reach Me At: **vickyku135@gmail.com**
 
 ## Languages and Tools 🧰
 
