@@ -5,7 +5,7 @@
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=Vickyknk07&left_color=e63946&right_color=green) -->
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/repsick3r/count.svg" />
+  <img src="https://profile-counter.glitch.me/Vickyknk07/count.svg" />
 </p>
 
 </p>
@@ -27,7 +27,7 @@
 
 ## Languages and Tools 🧰
 
-[<img align="left" alt="Git" width="40px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/git.svg" />](https://git-scm.com/)
+<!-- [<img align="left" alt="Git" width="40px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/git.svg" />](https://git-scm.com/) -->
 
 [<img align="left" alt="C" width="40px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/c-original.svg" />](https://www.cprogramming.com/)
 
