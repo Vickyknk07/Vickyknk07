@@ -56,11 +56,11 @@
 
 ## GitHub Statistics
 
-<p align="center">
+<!-- <p align="center">
  <a href="https://github-readme-stats.vercel.app/api?username=Vickyknk07&show_icons=true&count_private=true&theme=onedark">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vickyknk07&show_icons=true&count_private=true&theme=onedark" />
 </a>
-</p>
+</p> -->
 
 <p align="center">
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Vickyknk07&theme=onedark">
