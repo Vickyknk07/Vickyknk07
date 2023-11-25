@@ -2,7 +2,11 @@
 # I am Vicky Nayak
 <p align="center">
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Vickyknk07&left_color=e63946&right_color=green) 
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=Vickyknk07&left_color=e63946&right_color=green) -->
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/repsick3r/count.svg" />
+</p>
 
 </p>
 
@@ -60,10 +64,13 @@
  <a href="https://github-readme-stats.vercel.app/api?username=Vickyknk07&show_icons=true&count_private=true&theme=onedark">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vickyknk07&show_icons=true&count_private=true&theme=onedark" />
 </a>
-</p> -->
+</p> 
 
 <p align="center">
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Vickyknk07&theme=onedark">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vickyknk07&theme=onedark&exclude_repo=Competitive-Programming&hide=html,css" />
 </a>
-</p>
+</p> -->
+
+![Most used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vickyknk07&theme=merko&layout=compact&count_private=true&langs_count=20&card_width=446&icon_color=A7EA34&hide_border=false&border_color=68b486&disable_animations=false&locale=en)  
+</div>
