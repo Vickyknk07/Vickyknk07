@@ -64,15 +64,15 @@
  <a href="https://github-readme-stats.vercel.app/api?username=Vickyknk07&show_icons=true&count_private=true&theme=onedark">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vickyknk07&show_icons=true&count_private=true&theme=onedark" />
 </a>
-</p> 
+</p> -->
 
 <p align="center">
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Vickyknk07&theme=onedark">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vickyknk07&theme=onedark&exclude_repo=Competitive-Programming&hide=html,css" />
 </a>
-</p> -->
+</p>
 
-<div align="center" markdown="1">
+<!-- <div align="center" markdown="1">
 
 ![Most used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vickyknk07&theme=merko&layout=compact&count_private=true&langs_count=20&card_width=446&icon_color=ffffff&hide_border=false&border_color=ffffff&disable_animations=false&locale=en)  
-</div>
+</div> -->
