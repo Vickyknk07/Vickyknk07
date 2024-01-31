@@ -30,7 +30,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I am a Final Year Engineering Undergraduate and Full Stack Developer, pursuing Computer Science at the <a href="/https://www.iitbhu.ac.in/"> <b> Indian Institute of Technology (BHU), Varanasi</a>.
+💡 &nbsp;I am a Final Year Engineering Undergraduate and Full Stack Developer, pursuing Computer Science at the <a href="/https://www.iitbhu.ac.in/"> <b> Indian Institute of Technology (BHU), Varanasi</a>.\
 ✍️ &nbsp;Have a Keen Interest in things related to Computer Science.\
 👯 &nbsp;Would love working with people and brainstorming ideas\
 🌱 &nbsp;I’m currently learning **Spring Boot**\
@@ -44,7 +44,7 @@
 
 
 <a href="https://www.linkedin.com/in/vicky-nayak-534561239/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="https://instagram.com/_vicky.knk._.04_/"><img src="https://img.shields.io/badge/-@vickyknk04-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+<a href="https://instagram.com/_vicky.knk._.04_/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 <a href="mailto:vickyku135@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://leetcode.com/the_punisher45/"><img src="https://img.shields.io/badge/-LeetCode-E4405F?style=flat&logo=LeetCode&logoColor=white"/></a> &nbsp;
 
@@ -97,9 +97,6 @@
 -----
 
 </p>
-
-<br>
-<br>
 
 <h1 align="center">Github Stats</h1>
 
