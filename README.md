@@ -30,11 +30,11 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I am a Final Year Engineering Undergraduate and Full Stack Developer, pursuing Computer Science at the <a href="/https://www.iitbhu.ac.in/"> <b> Indian Institute of Technology (BHU), Varanasi</a>.
-✍️ &nbsp;Have a Keen Interest in things related to Computer Science.
-👯 &nbsp;Would love working with people and brainstorming ideas 
-🌱 &nbsp;I’m currently learning **Spring Boot**
-✉️ &nbsp;Reach Me At: **vickyku135@gmail.com**
+- 💡 &nbsp;I am a Final Year Engineering Undergraduate and Full Stack Developer, pursuing Computer Science at the <a href="/https://www.iitbhu.ac.in/"> <b> Indian Institute of Technology (BHU), Varanasi</a>.
+- ✍️ &nbsp;Have a Keen Interest in things related to Computer Science.\
+- 👯 &nbsp;Would love working with people and brainstorming ideas\
+- 🌱 &nbsp;I’m currently learning **Spring Boot**\
+- ✉️ &nbsp;Reach Me At: **vickyku135@gmail.com**
 
 ### If my repository is helpful for you then [Nominate me for GitHub Star](https://stars.github.com/nominate/)
 
@@ -44,7 +44,7 @@
 
 
 <a href="https://www.linkedin.com/in/vicky-nayak-534561239/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="https://instagram.com/_vicky.knk._.04_/"><img src="https://img.shields.io/badge/-@_vicky.knk._.04_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+<a href="https://instagram.com/_vicky.knk._.04_/"><img src="https://img.shields.io/badge/-@vickyknk04-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 <a href="mailto:vickyku135@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://leetcode.com/the_punisher45/"><img src="https://img.shields.io/badge/-LeetCode-E4405F?style=flat&logo=LeetCode&logoColor=white"/></a> &nbsp;
 
@@ -66,31 +66,31 @@
 
 <!-- [<img align="left" alt="Git" width="40px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/git.svg" />](https://git-scm.com/) -->
 
-[<code><img align="left" alt="C" width="15%" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/c-original.svg" /></code>](https://www.cprogramming.com/)
+[<img align="left" alt="C" width="15%" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/c-original.svg" />](https://www.cprogramming.com/)
 
-[<code><img align="left" alt="CPP" width="15%" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/cpp.svg" /></code>](https://www.cplusplus.com/)
+[<img align="left" alt="CPP" width="15%" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/cpp.svg" />](https://www.cplusplus.com/)
 
-[<code><img align="left" alt="PYTHON" width="15%" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/python.svg" /></code>](https://www.python.org/)
+[<img align="left" alt="PYTHON" width="15%" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/python.svg" />](https://www.python.org/)
 
-[<code><img align="left" alt="HTML" width="15%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" /></code>](https://html.com/)
+[<img align="left" alt="HTML" width="15%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />](https://html.com/)
 
-[<code><img align="left" alt="CSS" width="15%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" /></code>](https://www.w3.org/Style/CSS/Overview.en.html)
+[<img align="left" alt="CSS" width="15%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" />](https://www.w3.org/Style/CSS/Overview.en.html)
 
-[<code><img align="left" alt="JS" width="15%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /></code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img align="left" alt="JS" width="15%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-[<code><img align="left" alt="BOOTSTRAP" width="15%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" /></code>](https://getbootstrap.com)
+[<img align="left" alt="BOOTSTRAP" width="15%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />](https://getbootstrap.com)
 
-[<code><img align="left" alt="REACTJS" width="15%" src="https://github.com/JesusDR01/Portfolio-Production/blob/master/public/assets/svg/technologies/react.svg" /></code>](https://reactjs.org)
+[<img align="left" alt="REACTJS" width="15%" src="https://github.com/JesusDR01/Portfolio-Production/blob/master/public/assets/svg/technologies/react.svg" />](https://reactjs.org)
 
-[<code><img align="left" alt="VUEJS" width="15%" src="https://github.com/workshops-de/vuejs.de/blob/8a2a4ca29326344626f7d7ef83eee17d765385b6/assets/img/vuejs-logo.svg" /></code>](https://vuejs.org) 
+[<img align="left" alt="VUEJS" width="15%" src="https://github.com/workshops-de/vuejs.de/blob/8a2a4ca29326344626f7d7ef83eee17d765385b6/assets/img/vuejs-logo.svg" />](https://vuejs.org) 
 
-[<code><img align="left" alt="Django" width="15%" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/django.svg" /></code>](https://www.djangoproject.com/)
+[<img align="left" alt="Django" width="15%" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/django.svg" />](https://www.djangoproject.com/)
 
-[<code><img align="left" alt="MYSQL" width="15%" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/mysql.svg" /></code>](https://www.mysql.com/)  
+[<img align="left" alt="MYSQL" width="15%" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/mysql.svg" />](https://www.mysql.com/)  
 
-[<code><img align="left" alt="JAVA" width="15%" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/java.svg" /></code>](https://www.java.com/)
+[<img align="left" alt="JAVA" width="15%" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/java.svg" />](https://www.java.com/)
 
-[<code><img align="left" alt="ANDROID" width="15%" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/android.svg" /></code>](https://www.mysql.com/)
+[<img align="left" alt="ANDROID" width="15%" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/android.svg" />](https://www.mysql.com/)
 
 <br>
 <br>
