@@ -30,7 +30,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I am a Final Year Engineering Undergraduate and Full Stack Developer, pursuing Computer Science at the <a href="/https://www.iitbhu.ac.in/"> <b> Indian Institute of Technology (BHU), Varanasi</a>.\
+💡 &nbsp;I am a Final Year Engineering Undergraduate and Full Stack Developer, pursuing Computer Science at the <a href="/https://www.iitbhu.ac.in/"> <b> IIT (BHU), Varanasi</a>.\
 ✍️ &nbsp;Have a Keen Interest in things related to Computer Science.\
 👯 &nbsp;Would love working with people and brainstorming ideas\
 🌱 &nbsp;I’m currently learning **Spring Boot**\
@@ -97,6 +97,8 @@
 -----
 
 </p>
+
+<br>
 
 <p>
 
