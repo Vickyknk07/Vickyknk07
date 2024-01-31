@@ -30,11 +30,11 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 💡 &nbsp;I am a Final Year Engineering Undergraduate and Full Stack Developer, pursuing Computer Science at the <a href="/https://www.iitbhu.ac.in/"> <b> Indian Institute of Technology (BHU), Varanasi</a>.
-- ✍️ &nbsp;Have a Keen Interest in things related to Computer Science.\
-- 👯 &nbsp;Would love working with people and brainstorming ideas\
-- 🌱 &nbsp;I’m currently learning **Spring Boot**\
-- ✉️ &nbsp;Reach Me At: **vickyku135@gmail.com**
+💡 &nbsp;I am a Final Year Engineering Undergraduate and Full Stack Developer, pursuing Computer Science at the <a href="/https://www.iitbhu.ac.in/"> <b> Indian Institute of Technology (BHU), Varanasi</a>.
+✍️ &nbsp;Have a Keen Interest in things related to Computer Science.\
+👯 &nbsp;Would love working with people and brainstorming ideas\
+🌱 &nbsp;I’m currently learning **Spring Boot**\
+✉️ &nbsp;Reach Me At: **vickyku135@gmail.com**
 
 ### If my repository is helpful for you then [Nominate me for GitHub Star](https://stars.github.com/nominate/)
 
@@ -64,6 +64,8 @@
 
 ### Languages and Tools 🧰
 
+<p>
+
 <!-- [<img align="left" alt="Git" width="40px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/git.svg" />](https://git-scm.com/) -->
 
 [<img align="left" alt="C" width="15%" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/c-original.svg" />](https://www.cprogramming.com/)
@@ -91,6 +93,10 @@
 [<img align="left" alt="JAVA" width="15%" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/java.svg" />](https://www.java.com/)
 
 [<img align="left" alt="ANDROID" width="15%" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/android.svg" />](https://www.mysql.com/)
+
+-----
+
+</p>
 
 <br>
 <br>
