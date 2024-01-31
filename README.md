@@ -68,31 +68,31 @@
 
 <!-- [<img align="left" alt="Git" width="40px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/git.svg" />](https://git-scm.com/) -->
 
-[<img align="left" alt="C" width="10%" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/c-original.svg" />](https://www.cprogramming.com/)
+[<img align="left" alt="C" width="5%" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/c-original.svg" />](https://www.cprogramming.com/)
 
-[<img align="left" alt="CPP" width="10%" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/cpp.svg" />](https://www.cplusplus.com/)
+[<img align="left" alt="CPP" width="5%" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/cpp.svg" />](https://www.cplusplus.com/)
 
-[<img align="left" alt="PYTHON" width="10%" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/python.svg" />](https://www.python.org/)
+[<img align="left" alt="PYTHON" width="5%" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/python.svg" />](https://www.python.org/)
 
-[<img align="left" alt="HTML" width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />](https://html.com/)
+[<img align="left" alt="HTML" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />](https://html.com/)
 
-[<img align="left" alt="CSS" width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" />](https://www.w3.org/Style/CSS/Overview.en.html)
+[<img align="left" alt="CSS" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" />](https://www.w3.org/Style/CSS/Overview.en.html)
 
-[<img align="left" alt="JS" width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img align="left" alt="JS" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-[<img align="left" alt="BOOTSTRAP" width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />](https://getbootstrap.com)
+[<img align="left" alt="BOOTSTRAP" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />](https://getbootstrap.com)
 
-[<img align="left" alt="REACTJS" width="10%" src="https://github.com/JesusDR01/Portfolio-Production/blob/master/public/assets/svg/technologies/react.svg" />](https://reactjs.org)
+[<img align="left" alt="REACTJS" width="5%" src="https://github.com/JesusDR01/Portfolio-Production/blob/master/public/assets/svg/technologies/react.svg" />](https://reactjs.org)
 
-[<img align="left" alt="VUEJS" width="10%" src="https://github.com/workshops-de/vuejs.de/blob/8a2a4ca29326344626f7d7ef83eee17d765385b6/assets/img/vuejs-logo.svg" />](https://vuejs.org) 
+[<img align="left" alt="VUEJS" width="5%" src="https://github.com/workshops-de/vuejs.de/blob/8a2a4ca29326344626f7d7ef83eee17d765385b6/assets/img/vuejs-logo.svg" />](https://vuejs.org) 
 
-[<img align="left" alt="Django" width="10%" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/django.svg" />](https://www.djangoproject.com/)
+[<img align="left" alt="Django" width="5%" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/django.svg" />](https://www.djangoproject.com/)
 
-[<img align="left" alt="MYSQL" width="10%" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/mysql.svg" />](https://www.mysql.com/)  
+[<img align="left" alt="MYSQL" width="5%" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/mysql.svg" />](https://www.mysql.com/)  
 
-[<img align="left" alt="JAVA" width="10%" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/java.svg" />](https://www.java.com/)
+[<img align="left" alt="JAVA" width="5%" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/java.svg" />](https://www.java.com/)
 
-[<img align="left" alt="ANDROID" width="10%" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/android.svg" />](https://www.mysql.com/)
+[<img align="left" alt="ANDROID" width="5%" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/android.svg" />](https://www.mysql.com/)
 
 -----
 
