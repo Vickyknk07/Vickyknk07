@@ -98,8 +98,6 @@
 
 </p>
 
-<br>
-
 <p>
 
 <h1 align="center">Github Stats</h1>
