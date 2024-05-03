@@ -30,8 +30,9 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I'm a Final Year Engineering Undergraduate and Full Stack Developer, pursuing Computer Science at **IIT (BHU), Varanasi**.\
-✍️ &nbsp;Have a Keen Interest in things related to Computer Science.\
+👨‍💼 &nbsp;I am currently a Fullstack Software Developer @SAP Labs.\
+🏫 &nbsp;I did a Bachelors in Computer Science and Engineering from the **Indian Institute of Technology (BHU), Varanasi**.\
+🍀 &nbsp;I have a keen fascination with aspects of Computer Science.\
 👯 &nbsp;Would love working with people and brainstorming ideas.\
 🌱 &nbsp;I’m currently learning **Spring Boot**.\
 ✉️ &nbsp;Reach Me At: **vickyku135@gmail.com**.
